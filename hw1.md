@@ -1,3 +1,5 @@
+**+2 Good!**
+
 The regular Latin verb has 4 principal parts.
 
 The first and third principal parts are finite verb forms. The first person singular form is used for the first and third principal parts.
