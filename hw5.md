@@ -11,7 +11,7 @@ Illus femina filiae Thestii erat.
 Filii Althaae erant interficebantur. 
 
 **A large number of his sisters** were changed into birds, but not **the beautiful Deianira**.
-
+Magnus numerus eius filiae-------formosa Deianira. 
 
 **She was the daughter of Dexamenus**, according to some stories, but **the daughter of Oineus** in other versions.
-
+Ea filia Dexameni erat-------filia Oinei.  
