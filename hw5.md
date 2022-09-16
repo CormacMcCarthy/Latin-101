@@ -1,5 +1,5 @@
 1. **Meleager was the son of Oineus, king of Calydon.**
-Meleager filius Oinei erat, rex Caludonis. 
+Meleager filius erat Oinei, regis Caludonis. 
 
 2. **His mother was Althaea.**
 Eius mater Althaea erat. 
