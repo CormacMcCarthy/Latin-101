@@ -2,7 +2,7 @@
   Nioba uxor Amphionis erat. 
 
 2. Amphion and Niobe had many children.
-  Amphion et Nioba multorum filii habebant. 
+  Amphion et Nioba multos liberos habebant. 
 
 3. Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto. 
   Latona huius monebat, Nioba Latonae non audibat.
