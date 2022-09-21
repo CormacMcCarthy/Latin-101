@@ -1,5 +1,6 @@
 **+2 Satisfactory**
 
+
 What are the three genders of Latin nouns? Masculine, feminine, and neuter ⚠️ *speling*
 What are the three pieces of information in a Latin dictionary entry for a noun? Gender, case, and number ❌ The three pieces are the nominative singular form, genitive singular form, and the gender.  ✅
 How do you figure out what declension a noun belongs to? You can figure out what declension a noun belongs to by looking at genitive singular. 
