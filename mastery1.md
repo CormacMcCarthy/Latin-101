@@ -4,17 +4,17 @@ Complete a full declension of the phrase “the previous god” (prior deus).
 
 Singular
 
-Case            |Masculine       	|Feminine	      |Neuter
+Case|Masculine|Feminine|Neuter
+------------------------------
+Nominative| 
 
-Nominative | 
+Genitive|	 	 
 
-Genitive |  	 	 
+Dative|	 	 
 
-Dative | 	 	 	 
+Accusative|	 	 
 
-Accusative |  	 	 
-
-Ablative | 
+Ablative|
 
 Plural 
 
