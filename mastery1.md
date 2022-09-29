@@ -31,13 +31,10 @@ Ablative|
 Plural 
 
 Case|Masculine|Feminine|Neuter
-------------------------------
+----|--------|--------|----------
 Nominative| 
-
 Genitive|	 	 
-
 Dative|	 	 
-
 Accusative|	 	 
-
 Ablative|
+
