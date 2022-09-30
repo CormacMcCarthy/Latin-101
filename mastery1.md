@@ -62,14 +62,14 @@ Accusative|--------|illas naues
 Ablative|--------|illis nauibus
 
 
+**Verb forms**
+Complete the following synopsis of the third person singular of capio in the indicative mood. Assume a feminine subject.
 
 
+Tense and Voice|Form
+----|--------
+Imperfect active| 
+Imperfect passive|	 	 
+Perfect active|	 	 
+Perfect passive|	 	 
 
-
-Case|Masculine|Feminine|Neuter
-----|--------|--------|----------
-Nominative| 
-Genitive|	 	 
-Dative|	 	 
-Accusative|	 	 
-Ablative|
