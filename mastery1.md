@@ -20,7 +20,7 @@ Singular
 
 Case|Masculine|Feminine|Neuter
 ----|--------|--------|----------
-Nominative| 
+Nominative|prio deus
 Genitive|	 	 
 Dative|	 	 
 Accusative|	 	 
@@ -38,3 +38,13 @@ Dative|
 Accusative|	 	 
 Ablative|
 
+
+
+
+Case|Masculine|Feminine|Neuter
+----|--------|--------|----------
+Nominative| 
+Genitive|	 	 
+Dative|	 	 
+Accusative|	 	 
+Ablative|
