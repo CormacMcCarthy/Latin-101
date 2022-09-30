@@ -4,15 +4,21 @@ ceto *Hesione* **apposita est** Troiae. `eum` **occidit**; `Laomedonta`, patrem 
 
 (2) To what declension does Antaeum belong to?
 Antaeum belongs to the 2nd declension. 
+
 (3) What case is terrae and what other noun is it working with?
+Terrae is genetive and it is working with the noun filium. 
 
 (4) What is the antecedent of hic?
+The antecedent of hic is Hercules. 
 
 (5) What case is armis?
+Armis is ablative. 
 
 (6) Explain the construction cum eo?
+Cum, meaning 'with', is followed by a noun or pronoum in the ablative case. Eo is either a masculine or neuter singular pronoun in the ablative, but based off the context of the sentence we know it is masculine because it refers to Hercules. 
 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
+
 
 (8) Fully identify the form of apposita est.
 3rd Person, Singular, Perfect tences, Passive, Indicative.
