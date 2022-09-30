@@ -20,11 +20,11 @@ Singular
 
 Case|Masculine|Feminine|Neuter
 ----|--------|--------|----------
-Nominative|prio deus
-Genitive|	 	 
-Dative|	 	 
-Accusative|	 	 
-Ablative|
+Nominative|prior deus
+Genitive|prioris dei
+Dative|priori deo
+Accusative|priororem deum
+Ablative|priori deo
 
 
 
@@ -32,11 +32,11 @@ Plural
 
 Case|Masculine|Feminine|Neuter
 ----|--------|--------|----------
-Nominative| 
-Genitive|	 	 
-Dative|	 	 
-Accusative|	 	 
-Ablative|
+Nominative|priores dei
+Genitive|priorium deorum
+Dative|prioribus deis
+Accusative|priores deos
+Ablative|prioribus deis
 
 
 
