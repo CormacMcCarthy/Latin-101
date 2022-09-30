@@ -77,7 +77,7 @@ Complete the following synopsis of the third person plural of uideo in the indic
 
 Tense and Voice|Form
 ----|--------
-Imperfect active| 
-Imperfect passive|	 	 
-Perfect active|	 	 
-Perfect passive|	
+Imperfect active|uidebant
+Imperfect passive|uidebantur 
+Perfect active|uiderunt
+Perfect passive|uisa sunt
