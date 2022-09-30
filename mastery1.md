@@ -26,8 +26,6 @@ Dative|priori deo
 Accusative|priororem deum
 Ablative|priori deo
 
-
-
 Plural 
 
 Case|Masculine|Feminine|Neuter
@@ -37,6 +35,33 @@ Genitive|priorium deorum
 Dative|prioribus deis
 Accusative|priores deos
 Ablative|prioribus deis
+
+
+
+**Pronouns**
+Complete the following declension of the Latin phrase “the former-mentioned ship” (as opposed to the “the latter-mentioned ship”).
+
+Singular
+
+Case|Masculine|Feminine|Neuter
+----|--------|--------|----------
+Nominative|--------|illa nauis
+Genitive|--------|illus nauis
+Dative|--------|illi naui
+Accusative|--------|illam nauem
+Ablative|--------|illa naui
+
+Plural
+
+Case|Masculine|Feminine|Neuter
+----|--------|--------|----------
+Nominative|--------|illae naues
+Genitive|--------|illarum nauium
+Dative|--------|illis nauibus
+Accusative|--------|illas naues
+Ablative|--------|illis nauibus
+
+
 
 
 
