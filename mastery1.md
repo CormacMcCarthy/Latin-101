@@ -71,5 +71,13 @@ Tense and Voice|Form
 Imperfect active| 
 Imperfect passive|	 	 
 Perfect active|	 	 
-Perfect passive|	 	 
+Perfect passive|	
 
+Complete the following synopsis of the third person plural of uideo in the indicative mood. Assume a neuter subject.
+
+Tense and Voice|Form
+----|--------
+Imperfect active| 
+Imperfect passive|	 	 
+Perfect active|	 	 
+Perfect passive|	
