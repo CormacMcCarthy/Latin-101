@@ -3,7 +3,7 @@ ceto *Hesione* **apposita est** Troiae. `eum` **occidit**; `Laomedonta`, patrem 
 
 
 (2) To what declension does Antaeum belong to?
-
+Antaeum belongs to the 2nd declension. 
 (3) What case is terrae and what other noun is it working with?
 
 (4) What is the antecedent of hic?
@@ -15,8 +15,10 @@ ceto *Hesione* **apposita est** Troiae. `eum` **occidit**; `Laomedonta`, patrem 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
 
 (8) Fully identify the form of apposita est.
+3rd Person, Singular, Perfect tences, Passive, Indicative.
 
 (9) What is the antecedent of eam?
+The antecedent of eam is Hesione. 
 
 **Translation**
 Hercules killed Antaeus, son of the earth, in Libya. The latter was killing the ?GUESTS?; he (Hercules) slayed him (Antaeus) by wrestling. The arms struck down Cygus, son of Mars. Mars came and fought with him (Hercules) by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. He killed it (sea monster); Laomedon, father of Hesione, was killed with arrows because he was not returning her. 
