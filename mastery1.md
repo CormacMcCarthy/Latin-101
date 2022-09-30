@@ -68,10 +68,10 @@ Complete the following synopsis of the third person singular of capio in the ind
 
 Tense and Voice|Form
 ----|--------
-Imperfect active| 
-Imperfect passive|	 	 
-Perfect active|	 	 
-Perfect passive|	
+Imperfect active|capiebat
+Imperfect passive|capiebatur
+Perfect active|cepit 
+Perfect passive| capta est
 
 Complete the following synopsis of the third person plural of uideo in the indicative mood. Assume a neuter subject.
 
