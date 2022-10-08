@@ -1,5 +1,6 @@
+**+1 One typo away from perfect!  Nice work!**
 
-**Identifying verbs**
+**Identifying verbs** ✅
 
 1. occidit- 3rd, singular, perfect, indicative, active
 2. interficiebat- 3rd, singular, imperfect, indicative, active
@@ -12,7 +13,7 @@
 
 
 
-**Noun-adjective agreement**
+**Noun-adjective agreement** ✅
 
 Complete a full declension of the phrase “the previous god” (prior deus).
 
@@ -46,7 +47,7 @@ Singular
 Case|Masculine|Feminine|Neuter
 ----|--------|--------|----------
 Nominative|--------|illa nauis
-Genitive|--------|illus nauis
+Genitive|--------|illus nauis ❌
 Dative|--------|illi naui
 Accusative|--------|illam nauem
 Ablative|--------|illa naui
@@ -62,7 +63,7 @@ Accusative|--------|illas naues
 Ablative|--------|illis nauibus
 
 
-**Verb forms**
+**Verb forms** ✅
 Complete the following synopsis of the third person singular of capio in the indicative mood. Assume a feminine subject.
 
 
