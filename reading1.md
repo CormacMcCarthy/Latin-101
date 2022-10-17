@@ -14,7 +14,7 @@ Terrae is genetive and it is working with the noun filium.  ✅
 
 (4) What is the antecedent of hic?
 
-The antecedent of hic is Hercules. ❌
+The antecedent of hic is Hercules. ❌ The antecedent of hic is Antaeus.
 
 (5) What case is armis?
 
