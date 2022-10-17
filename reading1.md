@@ -26,7 +26,7 @@ Armis is ablative.  ✅
 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
 
-❓ **Number?** Fulmen (Fulmen, Fulmenis, n) is a 3rd declension noun in the accusative form in this sentence. It acts as the direct object of this sentence. The sentence structure is: Subject + Verb + Direct Object + Indirect Object.
+❓ **Number?**- Singular- Fulmen (Fulmen, Fulmenis, n) is a 3rd declension noun in the accusative form in this sentence. It acts as the direct object of this sentence. The sentence structure is: Subject + Verb + Direct Object + Indirect Object.
 
 (8) Fully identify the form of apposita est.
 
@@ -38,4 +38,4 @@ The antecedent of eam is Hesione. ✅
 
 **Translation**
 
-Hercules killed Antaeus, son of the earth, in Libya. Antaeus was killing the guests; Hercules slayed him by wrestling. ❌The arms struck down Cygus, son of Mars. Mars came and fought with Hercules by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. He killed it (sea monster); ❌Laomedon, father of Hesione, was killed with arrows because he was not returning her. 
+Hercules killed Antaeus, son of the earth, in Libya. Antaeus was killing the guests; Hercules slayed him by wrestling. ❌Hercules struck down Cygus with arms, son of Mars. Mars came and fought with Hercules by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. Hercules killed it (sea monster); ❌Hercules killed Laomedon, father of Hesione, with arrows because he was not returning her. 
