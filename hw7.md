@@ -11,7 +11,7 @@ Pelopia took the sword, and thrusted into her own chest.
 Iuno and Venus and Minerua layed claim to beauty for themselves. 
 
 5. Ulysses fluctibus iactabatur; Leucothea balteum **ei** dedit et **sibi** pectus uinciret.
-Ulysses was tossing about by the wave; Leucothea gave him the belt and he bound his own chest. 
+Ulysses was tossing about by the waves; Leucothea gave him the garment and he bound his own chest. 
 
 6. Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
-Achelous was changing herslef
+Achelous was changing herself into all figures. He fought with Hercules 
