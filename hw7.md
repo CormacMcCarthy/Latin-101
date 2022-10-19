@@ -14,4 +14,4 @@ Iuno and Venus and Minerua layed claim to beauty for themselves.
 Ulysses was tossing about by the waves; Leucothea gave him the garment and he bound his own chest. 
 
 6. Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
-Achelous was changing herself into all figures. He fought with Hercules 
+Achelous was changing herself into all figures. He fought with Hercules, and turned himself into a bull. 
