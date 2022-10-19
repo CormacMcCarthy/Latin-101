@@ -2,16 +2,16 @@
 Daedalus made the wings for **himself** and his son Iscarus. 
 
 2. Bacchus Ariadnen amauit et **sibi** in coniugium abduxit.
-Baccus loved Ariadne and took herself in marriage. 
+Bacchus loved Ariadne and took her in marriage for himself. 
 
 3. Pelopia gladium eripuit, et in pectus **sibi** detrusit.
-Pelopia took the sword, and thrust into his chest. 
+Pelopia took the sword, and thrusted into her own chest. 
 
 4. Iuno Venus Minerua formam **sibi** uindicauerunt.
-Iuno layed claim to 
+Iuno and Venus and Minerua layed claim to beauty for themselves. 
 
 5. Ulysses fluctibus iactabatur; Leucothea balteum **ei** dedit et **sibi** pectus uinciret.
+Ulysses was tossing about by the wave; Leucothea gave him the belt and he bound his own chest. 
 
-
-6. Achelous fluuius in omnes figuras se immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
-
+6. Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
+Achelous was changing herslef
