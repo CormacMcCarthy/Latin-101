@@ -1,4 +1,4 @@
-**+1 One typo away from perfect!  Nice work!**
+**+2 Satisfactory**
 
 **Identifying verbs** ✅
 
@@ -47,7 +47,7 @@ Singular
 Case|Masculine|Feminine|Neuter
 ----|--------|--------|----------
 Nominative|--------|illa nauis
-Genitive|--------|illius nauis ❌
+Genitive|--------|illius nauis
 Dative|--------|illi naui
 Accusative|--------|illam nauem
 Ablative|--------|illa naui
