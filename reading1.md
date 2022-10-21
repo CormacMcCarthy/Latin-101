@@ -38,4 +38,4 @@ The antecedent of eam is Hesione. ✅
 
 **Translation**
 
-Hercules killed Antaeus, son of the earth, in Libya. Antaeus was killing the guests; Hercules slayed him by wrestling. ❌Hercules struck down Cygus with arms, son of Mars. Mars came and fought with Hercules by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. Hercules killed it (sea monster); ❌Hercules killed Laomedon, father of Hesione, with arrows because he was not returning her. 
+Hercules killed Antaeus, son of the earth, in Libya. Antaeus was killing the guests; Hercules slayed him by wrestling. ❌Hercules struck down Cygus, son of Mars, with arms. Mars came and fought with Hercules by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. Hercules killed it (sea monster); ❌Hercules killed Laomedon, father of Hesione, with arrows because he was not returning her. 
