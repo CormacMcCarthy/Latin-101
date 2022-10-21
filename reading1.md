@@ -1,4 +1,4 @@
-**+1 Really nice first submission!**
+**+2 Satisfactory**
 
 `Antaeum`, terrae filium, in Libyā *Hercules* **occidit**. *hic* `hospites` **interficiebat**; `hunc` luctando *ille* **necauit**. `Cygnum`, Martis filium, *armis* **occidit**. *Mars* **uenit** et armis propter filium **contendit** cum eo, sed *Iouis* inter eos `fulmen` **misit**. 
 ceto *Hesione* **apposita est** Troiae. `eum` **occidit**; `Laomedonta`, patrem Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**.
@@ -14,7 +14,7 @@ Terrae is genetive and it is working with the noun filium.  ✅
 
 (4) What is the antecedent of hic?
 
-The antecedent of hic is Hercules. ❌ The antecedent of hic is Antaeus.
+The antecedent of hic is Hercules. ❌ The antecedent of hic is Antaeus. ✅
 
 (5) What case is armis?
 
@@ -36,6 +36,6 @@ Armis is ablative.  ✅
 
 The antecedent of eam is Hesione. ✅
 
-**Translation**
+**Translation**  ✅
 
-Hercules killed Antaeus, son of the earth, in Libya. Antaeus was killing the guests; Hercules slayed him by wrestling. ❌Hercules struck down Cygus, son of Mars, with arms. Mars came and fought with Hercules by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. Hercules killed it (sea monster); ❌Hercules killed Laomedon, father of Hesione, with arrows because he was not returning her. 
+Hercules killed Antaeus, son of the earth, in Libya. Antaeus was killing the guests; Hercules slayed him by wrestling. Hercules struck down Cygus, son of Mars, with arms. Mars came and fought with Hercules by arms on account of his son, but Jupiter sent lightning between them. Hesione was put next to the sea monster at Troy. Hercules killed it (sea monster); Hercules killed Laomedon, father of Hesione, with arrows because he was not returning her. 
