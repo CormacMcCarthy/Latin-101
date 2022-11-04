@@ -6,20 +6,20 @@ Singular
 Case|Form|
 ----|--------|
 Nominative|hic imprudens filius
-Genitive|huius 
-Dative|huic
-Accusative|hunc
-Ablative|huic
+Genitive|huius imprudentis filii
+Dative|huic imprudenti filio
+Accusative|hunc imprudentem filium
+Ablative|huic imprudente filio
 
 Plural
 
 Case|Form|
 ----|--------|
-Nominative|hi
-Genitive|horum 
-Dative|his 
-Accusative|hos 
-Ablative|his 
+Nominative|hi imprudentes filii
+Genitive|horum imprudentum filiorum
+Dative|his imprudentibus filiis
+Accusative|hos imprudentes filios
+Ablative|his imprudentibus filiis
 
 
 
