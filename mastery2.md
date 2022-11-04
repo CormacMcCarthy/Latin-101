@@ -3,8 +3,8 @@
 
 Singular
 
-Case|Masculine|Feminine|Neuter
-----|--------|--------|----------
+Case|Form|
+----|--------|
 Nominative|
 Genitive|
 Dative|
@@ -13,13 +13,14 @@ Ablative|
 
 Plural
 
-Case|Masculine|Feminine|Neuter
-----|--------|--------|----------
+Case|Form|
+----|--------|
 Nominative|
 Genitive|
 Dative|
 Accusative|
 Ablative|
+
 
 
 
