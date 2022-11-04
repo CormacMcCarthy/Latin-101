@@ -9,7 +9,7 @@ Nominative|hic imprudens filius
 Genitive|huius imprudentis filii
 Dative|huic imprudenti filio
 Accusative|hunc imprudentem filium
-Ablative|huic imprudente filio
+Ablative|hoc imprudente filio
 
 Plural
 
