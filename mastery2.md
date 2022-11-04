@@ -5,21 +5,21 @@ Singular
 
 Case|Form|
 ----|--------|
-Nominative|
-Genitive|
-Dative|
-Accusative|
-Ablative|
+Nominative|hic imprudens filius
+Genitive|huius 
+Dative|huic
+Accusative|hunc
+Ablative|huic
 
 Plural
 
 Case|Form|
 ----|--------|
-Nominative|
-Genitive|
-Dative|
-Accusative|
-Ablative|
+Nominative|hi
+Genitive|horum 
+Dative|his 
+Accusative|hos 
+Ablative|his 
 
 
 
