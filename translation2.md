@@ -18,10 +18,11 @@ dōna- direct object.
 eī- indrect object. 
 misērunt- passive transitive verb.
 5. Parse data est and indicate what conjugation the verb belongs to. dare + est. This tells us the verb is 3rd person, singular, indicative, perfect active, and 1st conjugation. 
-6. What type of grammatical construction is ab Iove? 
+6. What type of grammatical construction is ab Iove? Ab means by and Iove is the name Jupiter in the ablative. Thus, the phrase means by Jupiter and refers to the action of the sentence (given by Jupiter). 
 7. What tense is erat and what are the principle parts of the verb it comes from? erat is in the imperfect. The principle parts are Sum, Esse, Fui. 
 
 
 **C. Translation**
 Please translate the passage into idiomatic English.
-Long ago, Prometheus, first son of Iapeti, was making men out of mud. At the same time, Vulcanus, was making women out of mud. Minerva gave a woman a soul and all the gods sent gifts to her. The name of "Pandora" was given to her. Pandora was given to Epimetheo in marraige by Iove. Their daughter was Pyrrha, the first mortal. 
+
+Long ago, Prometheus, first son of Iapeti, was making men out of mud. At the same time, Vulcanus, was making women out of mud. Minerva gave a woman a soul and all the gods sent gifts to her. The name of "Pandora" was given to her. Pandora was given to Epimetheo in marraige by Jupiter. Their daughter was Pyrrha, the first mortal. 
