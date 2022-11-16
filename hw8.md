@@ -7,7 +7,7 @@
 3. When the Greeks **captured** the city, it was not yet dawn. (“When” refers to time, not circumstance). cepissent
 
 
-4. Since the city **had been captured**, Aeneas fled with his family.
+4. Since the city **had been captured**, Aeneas fled with his family. cepissent
 
 
 5. While the Greeks **were sacking** the city, fires raged. diripiunt
