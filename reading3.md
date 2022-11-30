@@ -21,7 +21,7 @@ This clause is a temporal clause and cum is a temporal conjunction.
 7. What case is ei in line 6 and what function does it play in the sentence?
 
 8. What irregular verb does exierunt (line 7) come from?
-The irregular verb exierunt comes from exeo. 
+The irregular verb exierunt comes from eo + prefix ex. 
 
 
 **B. Translate the passage.**
