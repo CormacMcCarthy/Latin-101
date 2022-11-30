@@ -25,3 +25,4 @@ Achīvī exiērunt et custodēs occidērunt et Troiam sunt potitī.
 
 
 **B. Translate the passage.**
+When the Acheans for 10 years had been in Troy
