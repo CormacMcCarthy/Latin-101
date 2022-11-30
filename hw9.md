@@ -2,19 +2,19 @@
 
 
 2. Hyginus said that the horse was made by Epeius.
-
+Hyginas dixit equum ab Epeio factum esse. 
 
 3. The Achaean leaders hid themselves in the horse.
-
+Duces Achiuorum se in equo abs condiderunt. 
 
 4. Cassandra said that the Achaean leaders were in the wooden horse.
-
+Cassandra dixit duces se in equo abscondisse. 
 
 5. The Trojans believed that the Achaeans were giving a gift to Minerva.
-
+Troiani credebant Achiuos donum Minervae dare. 
 
 6. The Trojans believed that the Achaeans had gone away.
-
+Troiani credebant Achiuos isse. 
 
 7. No one saw the Achaean leaders get out of the horse.
 
