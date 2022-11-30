@@ -1,8 +1,8 @@
-Cum Achīvī decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. 
+Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. 
 In eō **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. 
 et in equō **scripsērunt** “DANAI MINERVAE DONUM DEDERUNT, castraque **transtulērunt** Tenedo. 
-Cum id Troianī **vidērunt**, *Priamus* equum in templum Minervae **duxit**. 
-Cum Cassandra **diceret** equum habere hostes, *fidēs* eī non **data est** et equum pro templō **posuērunt**. 
+Cum id *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. 
+Cum *Cassandra* **diceret** equum habere hostes, *fidēs* eī non **data est** et equum pro templō **posuērunt**. 
 *Achīvī* **exiērunt** et custodēs **occidērunt** et Troiam **sunt potitī**.
 
 **A. Grammatical Questions**
@@ -17,11 +17,11 @@ Mirae magnitūdinis is genetive, singular, and feminine and it functions as a de
 5. What are the person, number, tense, mood, and voice of collecti sunt (line 2)?
 Collecti sunt is 3rd person, plural, 
 6. What type of clause is cum id Troianī vidērunt (lines 4-5) and what part of speech is cum?
-
+This clause is a temporal clause and cum is a temporal conjunction. 
 7. What case is ei in line 6 and what function does it play in the sentence?
 
 8. What irregular verb does exierunt (line 7) come from?
-
+The irregular verb exierunt comes from exeo. 
 
 
 **B. Translate the passage.**
