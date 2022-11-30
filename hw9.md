@@ -17,7 +17,7 @@ Troiani credebant Achiuos donum Minervae dare.
 Troiani credebant Achiuos isse. 
 
 7. No one saw the Achaean leaders get out of the horse.
-
+Nemo 
 
 8. When they saw that the guards of the gates had been killed, the Trojans understood that the Achaean leaders had been hidden in the horse.
 
