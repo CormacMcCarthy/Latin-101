@@ -37,13 +37,13 @@ Please complete the following forms for the verb sum in the third person singula
 
 Tense, mood|Form
 ----|--------
-Imperfect indicative|
-Imperfect subjunctive|
-Perfect indicative|
-Pluperfect subjunctive|
+Imperfect indicative|erat
+Imperfect subjunctive|esset
+Perfect indicative|fuit
+Pluperfect subjunctive|fuerat
 
 Compose the following infinitives
 Tense|Form
 ----|--------
-Present|
-Perfect|
+Present|esse
+Perfect|fuisse
