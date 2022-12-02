@@ -30,7 +30,7 @@ Compose the following infinitives
 Tense|Active|Passive
 ----|--------|------
 Present|audire|audi
-Perfect|audiuisse|IDK??
+Perfect|audiuisse|auditus esse
 
 
 Please complete the following forms for the verb sum in the third person singular.
