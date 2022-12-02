@@ -5,16 +5,16 @@ Please complete the following forms for the verb duco in the third person singul
 
 Tense, mood|Active|Passive
 ----|--------|--------
-Imperfect indicative|--------|
-Imperfect subjunctive|--------|
-Perfect indicative|--------|
-Pluperfect subjunctive|--------|
+Imperfect indicative|ducebat|ducebatur
+Imperfect subjunctive|duceret|duceretur
+Perfect indicative|duxit|ducta est
+Pluperfect subjunctive|duxisset|ducta est
 
 Compose the following infinitives
 Tense|Active|Passive
 ----|--------|--------
-Present|--------|
-Perfect|--------|
+Present|ducere|duci
+Perfect|duxisse|ducta esse
 
 
 Please complete the following forms for the verb audio in the third person plural. Assume a masculine subject.
