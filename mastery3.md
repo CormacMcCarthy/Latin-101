@@ -10,7 +10,7 @@ Imperfect subjunctive|--------|
 Perfect indicative|--------|
 Pluperfect subjunctive|--------|
 
-
+Compose the following infinitives
 Tense|Active|Passive
 ----|--------|--------
 Present|--------|
@@ -26,7 +26,7 @@ Imperfect subjunctive|--------|
 Perfect indicative|--------|
 Pluperfect subjunctive|--------|
 
-
+Compose the following infinitives
 Tense|Active|Passive
 ----|--------|--------
 Present|--------|
@@ -42,7 +42,7 @@ Imperfect subjunctive|--------|
 Perfect indicative|--------|
 Pluperfect subjunctive|--------|
 
-
+Compose the following infinitives
 Tense|Active|Passive
 ----|--------|--------
 Present|--------|
