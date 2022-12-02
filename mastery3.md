@@ -28,22 +28,22 @@ Pluperfect subjunctive|audiuisset|auditus esset
 
 Compose the following infinitives
 Tense|Active|Passive
-----|--------|--------
+----|--------|------
 Present|audire|audi
 Perfect|audiuisse|IDK??
 
 
 Please complete the following forms for the verb sum in the third person singular.
 
-Tense, mood|Active|Passive
-----|--------|--------
-Imperfect indicative|--------|
-Imperfect subjunctive|--------|
-Perfect indicative|--------|
-Pluperfect subjunctive|--------|
+Tense, mood|Form
+----|--------
+Imperfect indicative|
+Imperfect subjunctive|
+Perfect indicative|
+Pluperfect subjunctive|
 
 Compose the following infinitives
-Tense|Active|Passive
-----|--------|--------
-Present|--------|
-Perfect|--------|
+Tense|Form
+----|--------
+Present|
+Perfect|
