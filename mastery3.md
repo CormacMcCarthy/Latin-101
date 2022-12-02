@@ -21,16 +21,16 @@ Please complete the following forms for the verb audio in the third person plura
 
 Tense, mood|Active|Passive
 ----|--------|--------
-Imperfect indicative|--------|
-Imperfect subjunctive|--------|
-Perfect indicative|--------|
-Pluperfect subjunctive|--------|
+Imperfect indicative|audiebat|audiebatur
+Imperfect subjunctive|audiret|audiretur
+Perfect indicative|audiuit|auditus est
+Pluperfect subjunctive|audiuisset|auditus esset
 
 Compose the following infinitives
 Tense|Active|Passive
 ----|--------|--------
-Present|--------|
-Perfect|--------|
+Present|audire|audi
+Perfect|audiuisse|IDK??
 
 
 Please complete the following forms for the verb sum in the third person singular.
