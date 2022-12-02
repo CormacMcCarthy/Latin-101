@@ -24,7 +24,7 @@ Tense, mood|Active|Passive
 Imperfect indicative|audiebat|audiebatur
 Imperfect subjunctive|audiret|audiretur
 Perfect indicative|audiuit|auditus est
-Pluperfect subjunctive|audiuisset|auditus esset
+Pluperfect subjunctive|audiuisset|auditus esse
 
 Compose the following infinitives
 Tense|Active|Passive
