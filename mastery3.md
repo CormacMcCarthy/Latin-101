@@ -1,9 +1,9 @@
-
+**+1 One form short of perfect!**
 
 
 Please complete the following forms for the verb duco in the third person singular. Assume a feminine subject.
 
-Tense, mood|Active|Passive
+Tense, mood|Active|Passive ✅
 ----|--------|--------
 Imperfect indicative|ducebat|ducebatur
 Imperfect subjunctive|duceret|duceretur
@@ -29,7 +29,7 @@ Pluperfect subjunctive|audiuisset|auditus esse
 Compose the following infinitives
 Tense|Active|Passive
 ----|--------|------
-Present|audire|audi
+Present|audire|audi❌
 Perfect|audiuisse|auditus esse
 
 
