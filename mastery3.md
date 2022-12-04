@@ -29,7 +29,7 @@ Pluperfect subjunctive|audiuisset|auditus esse
 Compose the following infinitives
 Tense|Active|Passive
 ----|--------|------
-Present|audire|audi❌
+Present|audire|audi❌audiri
 Perfect|audiuisse|auditus esse
 
 
