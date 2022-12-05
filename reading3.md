@@ -1,5 +1,8 @@
 **+1 Excellent first draft! Needs minor revisions**
 
+
+Revised.
+
 Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. 
 In eō **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. 
 et in equō **scripsērunt** “DANAI MINERVAE DONUM DEDERUNT, castraque **transtulērunt** Tenedo. 
