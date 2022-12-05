@@ -42,7 +42,7 @@ Ablative|his imprudentibus filiis
 **non potessebat iri**❌ non potessebatur iri
 
 5. Cleops and Bitias **wanted to bring** their mother to the festival.
-**egit feri**❌ 
+**egit feri**❌  uoluerunt ferre
 
 6. They yoked **themselves** to a wagon.
 **se**
