@@ -29,4 +29,4 @@ Apud templum sacrum, Cydippe donum optimum mortale ob❓ fratres pecarit❓.
 
 Fratres fessiet❓ acquiescebant et numquam surgebant.
 
-Mori optimum donum est nam❓ humani mortales. 
+Mori optimum donum humanibus mortalibus est. 
