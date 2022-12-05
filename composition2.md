@@ -17,16 +17,16 @@ Mori optimum donum est nam❓ humani mortales.
 
 ----------Revised in Class----------
 
-Cydippe, sacerdotis❌ Iuonis, boues misit in agros et non redierunt ad tempus. 
+Cydippe, sacerdos Iuonis, boues misit in agros et non redierunt ad tempus. 
 
 Cydippe sacra duci ad tempus apud templo debebant sed Cydippe non poterat se in uiam dare. 
 
-Cleops et Bitias matrem apud❌ fano vellebant et se sub iugum iunxerunt. 
+Cleops et Bitias matrem in fano vellebant et se sub iugum iunxerunt. 
 
 Fratres Cydippen in plaustro multas horas ducebant. 
 
-Apud templum sacrum, Cydippe donum optimum mortale ob❓ fratres pecarit❓. 
+Apud templum sacrum, Cydippe deos precaribat. 
 
-Fratres fessiet❓ acquiescebant et numquam surgebant.
+Fratres fessi acquiescebant et numquam surgebant.
 
 Mori optimum donum humanibus mortalibus est. 
