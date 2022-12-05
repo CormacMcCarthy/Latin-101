@@ -30,7 +30,7 @@ Ablative|his imprudentibus filiis
 **_Case usage_**
 
 1. Cydippe sent the oxen **into the fields**. 
-**in argos** ❌ *Check speling*
+**in argos** ❌ *Check speling* in agros
 
 2. They did not return **with her sons**.
 **cum eius filiis**
