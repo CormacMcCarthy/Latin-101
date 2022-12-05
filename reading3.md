@@ -29,7 +29,7 @@ The irregular verb exierunt comes from eo + prefix ex.
 **B. Translate the passage.**
 When the Acheans for 10 years had been in Troy, Epeus made a wooden horse of amazing size. 
 In that was collected Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus.
-And on the hourse they wrote "Greek❌  gave a gift to Minerva," they carried it❌  from the military camp to Tenedos.
+And on the hourse they wrote "Greek❌ The Greeks gave a gift to Minerva," they carried it❌  from the military camp to Tenedos.
 When the Trojans saw it, Priam led the horse into the temple of Minerva. 
 When Cassandra said that the horse held enemies, faith was not given to her and they put the horse in front of the temple. 
 The Acheans exited and killed the guards and they acquired Troy. 
