@@ -18,7 +18,7 @@ Plural
 Case|Form|
 ----|--------|
 Nominative|hi imprudentes filii
-Genitive|horum imprudentum❌ filiorum
+Genitive|horum imprudentum❌imprudentium filiorum
 Dative|his imprudentibus filiis
 Accusative|hos imprudentes filios
 Ablative|his imprudentibus filiis
