@@ -3,5 +3,4 @@ Equum factum esse ob Epeio.
 Duces Achiuorum se in equo abs condiderunt.
 Cassandra dixit duces se in equo abscondisse, Trioani ei non credebant.  
 Troiani credebant Achiuos isse.
-
-on that night, when the Trojans had set the horse up before the temple, Greeks got out of the horse, et Troiam sunt potitī.
+In illa nocte, cum Troiani had set equum pro templō posuerant, Achīvī ligneum equum exiērunt, et Troiam sunt potitī.
