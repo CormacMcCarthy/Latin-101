@@ -29,4 +29,4 @@ misērunt- verb.
 **C. Translation**
 Please translate the passage into idiomatic English.
 
-Long ago, Prometheus, first son of Iapeti❌ Iapetus, was making men out of mud. At the same time, Vulcanus, was making women❌ a woman out of mud. Minerva gave this woman a soul and all the gods sent gifts to her. The name of "Pandora" was given to her. Pandora was given to Epimetheo❌Epimetheus in marraige❌ by Jupiter. Their daughter was Pyrrha, the first mortal. 
+Long ago, Prometheus, first son of Iapeti❌ Iapetus, was making men out of mud. At the same time, Vulcanus, was making women❌ a woman out of mud. Minerva gave this woman a soul and all the gods sent gifts to her. The name of "Pandora" was given to her. Pandora was given to Epimetheo❌Epimetheus in marraige❌ marriage by Jupiter. Their daughter was Pyrrha, the first mortal. 
