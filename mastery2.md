@@ -1,5 +1,7 @@
 **+1 Needs minor revisions**
 
+Revised
+
 **_Noun-adjective agreement_**
 “this foolish son”
 
@@ -54,7 +56,7 @@ Ablative|his imprudentibus filiis
 **ab eius filiis**
 
 9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals.
-**sibi et eius❌earum filiis**
+**sibi et eius**❌ earum filiis
 
 10. **That night**, they fell asleep and never woke up.
 **ea nocte**
