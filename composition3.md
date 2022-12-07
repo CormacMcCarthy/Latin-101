@@ -1,4 +1,7 @@
-Cum Achīvī decem annōs in Troia fuissent et non possum facere, equum ligneum fēcerunt. 
+
+Revised in Class. 
+
+Cum Achīvī decem annōs in Troia fuissent et Troiam capere non possent, equum ligneum fēcerunt. 
 Equum factum esse ob Epeio.
 Duces Achiuorum se in equo abs condiderunt. 
 Cassandra dixit duces se in equo abscondisse, Trioani ei non credebant. 
